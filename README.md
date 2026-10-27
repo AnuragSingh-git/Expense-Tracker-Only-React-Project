@@ -21,7 +21,7 @@ This project helps users track their daily expenses with a clean UI and real-tim
 - React JS (Vite)
 - JavaScript (ES6+)
 - CSS3 (Custom styling)
-- LocalStorage API
+- LocalStorage APIs
 
 ---
 
