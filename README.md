@@ -1,7 +1,7 @@
 # 💰 Expense Tracker (React JS)
 
 A simple and modern **Expense Tracker App** built using React JS.  
-This project helps users track their daily expenses with a clean UI and real-time total calculations.
+This project helps users track their daily expenses with a clean UI and real time total calculations.
 
 ---
 
