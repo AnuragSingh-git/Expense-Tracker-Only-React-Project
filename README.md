@@ -10,7 +10,7 @@ This project helps users track their daily expenses with a clean UI and realtime
 - ➕ Add new expense
 - 🗑️ Delete expense
 - 💰 Auto calculated total amount
-- 💾 Data saved in Local Storage (persists after refresh)
+- 💾 Data saved in Local Storages (persists after refresh)
 - 🎨 Modern responsive UI with gradient background
 - ⚡ Fast and lightweight (no backend)
 
