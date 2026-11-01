@@ -34,6 +34,8 @@ export default function App() {
     setAmount("");
   };
 
+  //edit function
+
   const deleteExpense = (id) => {
     setExpenses(expenses.filter((item) => item.id !== id));
   };
