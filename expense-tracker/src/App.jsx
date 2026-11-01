@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
+//App function
+
 export default function App() {
   const [expenses, setExpenses] = useState(() => {
     const saved = localStorage.getItem("expenses");
