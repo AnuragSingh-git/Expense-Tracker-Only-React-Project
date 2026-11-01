@@ -16,6 +16,8 @@ export default function App() {
     localStorage.setItem("expenses", JSON.stringify(expenses));
   }, [expenses]);
 
+  //add function
+
   const addExpense = (e) => {
     e.preventDefault();
 
